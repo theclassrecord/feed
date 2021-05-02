@@ -20,14 +20,14 @@
 		<itunes:subtitle>teachers talking teacher stuff after work</itunes:subtitle>
 
 
-		<?ignore New Episodes
+		<!-- New Episodes
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
 			<title>Bodega Nights - The Second Dark and Gritty Reboot</title>
 			<link>http://feedproxy.google.com/~r/theclassrecord/~3/uLGZjghzCu0/assessment-in-new-normal.html</link>
 			<description>Martin and Joao reflect on the past year of Bodega Nights.</description>
-			<media:thumbnail url="http://2.bp.blogspot.com/--FTV2wr2zJg/U3R-5C8ihuI/AAAAAAAAASM/w0qEpMZ3RM0/bnightsnew.png" height="512" width="512" />
+			<media:thumbnail url="https://1.bp.blogspot.com/-Pj-SxUgaN9g/Xjk0o0HMywI/AAAAAAAAAAY/Rxp_HDcjwG0yc-ub1_ceJLd4accVL0xfwCLcBGAsYHQ/s2048/square.png" height="512" width="512" />
 			<enclosure
 				length="10093932" 
 				type="audio/mpeg" 
@@ -37,9 +37,9 @@
 			<itunes:explicit>false</itunes:explicit>
 		</item> 
 		
-		?>
+		-->
 		
-
+<!--Old stuff-->
 <item>
 <title>Assessment in the New Normal</title>
 <link>http://feedproxy.google.com/~r/theclassrecord/~3/uLGZjghzCu0/assessment-in-new-normal.html</link>
