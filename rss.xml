@@ -20,7 +20,8 @@
 		<itunes:subtitle>teachers talking teacher stuff after work</itunes:subtitle>
 
 		
-<! NEW SEASON
+<!--
+NEW SEASON!!
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -35,9 +36,11 @@
 			<guid isPermaLink="false">https://archive.org/download/20210427newseason/20210427newseason.mp3</guid>
 			<pubDate>Wed, 5 May 2021 05:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
-		</item>
-
- THE OLD STUFF -->
+		</item> 
+		
+	
+Old Stuff
+-->
 
 <item>
 <title>Assessment in the New Normal</title>
