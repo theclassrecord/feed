@@ -20,7 +20,7 @@
 		<itunes:subtitle>teachers talking teacher stuff after work</itunes:subtitle>
 
 
-		<!-- DARTH FUCKING VIDA 
+		<?ignore New Episodes
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -37,7 +37,7 @@
 			<itunes:explicit>false</itunes:explicit>
 		</item> 
 		
-		-->
+		?>
 		
 
 <item>
