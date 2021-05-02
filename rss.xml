@@ -1,1 +1,310 @@
-helloworld
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+		<title>The Class Record</title>
+		<link>http://theclassrecord.com</link>
+		<media:thumbnail url="https://1.bp.blogspot.com/-Pj-SxUgaN9g/Xjk0o0HMywI/AAAAAAAAAAY/Rxp_HDcjwG0yc-ub1_ceJLd4accVL0xfwCLcBGAsYHQ/s2048/square.png" />
+		<language>en-us</language>
+		<copyright>© 2021 the class record</copyright>
+		<itunes:author>the class record</itunes:author>
+		<description>teachers talking teacher stuff after work</description>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:email>theclassrecord@gmail.com</itunes:email>
+			<itunes:name>the class record</itunes:name>
+		</itunes:owner>
+		<itunes:category text="Education"> </itunes:category>
+		<itunes:category text="K-12"> </itunes:category>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:image href="https://1.bp.blogspot.com/-Pj-SxUgaN9g/Xjk0o0HMywI/AAAAAAAAAAY/Rxp_HDcjwG0yc-ub1_ceJLd4accVL0xfwCLcBGAsYHQ/s2048/square.png" />
+		<itunes:keywords>teacher</itunes:keywords>
+		<itunes:subtitle>teachers talking teacher stuff after work</itunes:subtitle>
+
+		
+<!-- NEW SEASON!!
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<title>Bodega Nights - The Second Dark and Gritty Reboot</title>
+			<link>http://feedproxy.google.com/~r/theclassrecord/~3/uLGZjghzCu0/assessment-in-new-normal.html</link>
+			<description>Martin and Joao reflect on the past year of Bodega Nights.</description>
+			<media:thumbnail url="http://2.bp.blogspot.com/--FTV2wr2zJg/U3R-5C8ihuI/AAAAAAAAASM/w0qEpMZ3RM0/bnightsnew.png" height="512" width="512" />
+			<enclosure
+				length="10093932" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210427newseason/20210427newseason.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210427newseason/20210427newseason.mp3</guid>
+			<pubDate>Wed, 5 May 2021 05:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item> -->
+		
+	
+<!-- THE OLD STUFF -->
+
+<item>
+<title>Assessment in the New Normal</title>
+<link>http://feedproxy.google.com/~r/theclassrecord/~3/uLGZjghzCu0/assessment-in-new-normal.html</link>
+<category>classrecord</category>
+<category>podcast</category>
+<author>theclassrecord@gmail.com (the class record)</author>
+<pubDate>Mon, 09 Nov 2020 02:00:00 PST</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-1760851446154743190.post-538530571059559232</guid>
+<description>&lt;img src="https://dl.dropboxusercontent.com/s/intketof2skbvmm/square3100.jpg" /&gt;&lt;br /&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;On this episode we talk about grading in the new normal.&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;We’re also online at theclassrecord.com&amp;nbsp;&lt;br /&gt;Twitter: @theclassrecord&amp;nbsp;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Featuring:&amp;nbsp;&lt;br /&gt;&lt;br /&gt;The classic lineup of Bea, Charlie, Joao, Ling, and Val.&amp;nbsp;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;a href="https://archive.org/download/20201102grading/20201102grading.mp3"&gt;Download the episode here.&amp;nbsp;&lt;/a&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/theclassrecord/~4/uLGZjghzCu0" height="1" width="1" alt=""/&gt;</description>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="http://feedproxy.google.com/~r/theclassrecord/~5/fZ6YmfUAtH0/20201102grading.mp3" fileSize="35208336" type="audio/mpeg" />
+<media:thumbnail url="https://1.bp.blogspot.com/-Pj-SxUgaN9g/Xjk0o0HMywI/AAAAAAAAAAY/Rxp_HDcjwG0yc-ub1_ceJLd4accVL0xfwCLcBGAsYHQ/s2048/square.png" height="512" width="512" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>On this episode we talk about grading in the new normal. We’re also online at theclassrecord.com&amp;nbsp; Twitter: @theclassrecord&amp;nbsp; Featuring:&amp;nbsp; The classic lineup of Bea, Charlie, Joao, Ling, and Val.&amp;nbsp; Download the episode here.&amp;nbsp;</itunes:subtitle>
+<itunes:author>the class record</itunes:author>
+<itunes:summary>On this episode we talk about grading in the new normal. We’re also online at theclassrecord.com&amp;nbsp; Twitter: @theclassrecord&amp;nbsp; Featuring:&amp;nbsp; The classic lineup of Bea, Charlie, Joao, Ling, and Val.&amp;nbsp; Download the episode here.&amp;nbsp;</itunes:summary>
+<itunes:keywords>teacher</itunes:keywords>
+<feedburner:origLink>http://theclassrecordrss.blogspot.com/2020/11/assessment-in-new-normal.html</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/theclassrecord/~5/fZ6YmfUAtH0/20201102grading.mp3" length="35208336" type="audio/mpeg" />
+<feedburner:origEnclosureLink>https://archive.org/download/20201102grading/20201102grading.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+<title>Our Favorite Subjects, Standardized Tests, More Teaching in the New Normal Talk</title>
+<link>http://feedproxy.google.com/~r/theclassrecord/~3/W9kieFuViAM/our-favorite-subjects-standardized.html</link>
+<category>classrecord</category>
+<category>podcast</category>
+<author>theclassrecord@gmail.com (the class record)</author>
+<pubDate>Thu, 22 Oct 2020 07:35:38 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-1760851446154743190.post-4688331638620326807</guid>
+<description>&lt;img src="https://dl.dropboxusercontent.com/s/intketof2skbvmm/square3100.jpg" /&gt;&lt;br /&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;On this episode we talk about some of our favorite subjects from when we were younger.&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;We’re also online at theclassrecord.com&amp;nbsp;&lt;br /&gt;Twitter: @theclassrecord&amp;nbsp;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Featuring:&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Charlie, Joao, Jovit, and Ling.&amp;nbsp;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;a href="https://archive.org/download/20201009favoritesubjects/20201009favoriteSubjects.mp3"&gt;Download the episode here.&amp;nbsp;&lt;/a&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/theclassrecord/~4/W9kieFuViAM" height="1" width="1" alt=""/&gt;</description>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="http://feedproxy.google.com/~r/theclassrecord/~5/-cSD8A92Yyc/20201009favoriteSubjects.mp3" fileSize="16275157" type="audio/mpeg" />
+<media:thumbnail url="https://1.bp.blogspot.com/-Pj-SxUgaN9g/Xjk0o0HMywI/AAAAAAAAAAY/Rxp_HDcjwG0yc-ub1_ceJLd4accVL0xfwCLcBGAsYHQ/s2048/square.png" height="512" width="512" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>On this episode we talk about some of our favorite subjects from when we were younger. We’re also online at theclassrecord.com&amp;nbsp; Twitter: @theclassrecord&amp;nbsp; Featuring:&amp;nbsp; Charlie, Joao, Jovit, and Ling.&amp;nbsp; Download the episode here.&amp;nbsp;</itunes:subtitle>
+<itunes:author>the class record</itunes:author>
+<itunes:summary>On this episode we talk about some of our favorite subjects from when we were younger. We’re also online at theclassrecord.com&amp;nbsp; Twitter: @theclassrecord&amp;nbsp; Featuring:&amp;nbsp; Charlie, Joao, Jovit, and Ling.&amp;nbsp; Download the episode here.&amp;nbsp;</itunes:summary>
+<itunes:keywords>teacher</itunes:keywords>
+<feedburner:origLink>http://theclassrecordrss.blogspot.com/2020/10/our-favorite-subjects-standardized.html</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/theclassrecord/~5/-cSD8A92Yyc/20201009favoriteSubjects.mp3" length="16275157" type="audio/mpeg" />
+<feedburner:origEnclosureLink>https://archive.org/download/20201009favoritesubjects/20201009favoriteSubjects.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+<title>More Teachers' Day, Fountain Pens, Math</title>
+<link>http://feedproxy.google.com/~r/theclassrecord/~3/fbcz7OcTApM/more-teachers-day-fountain-pens-math.html</link>
+<category>classrecord</category>
+<category>podcast</category>
+<author>theclassrecord@gmail.com (the class record)</author>
+<pubDate>Mon, 12 Oct 2020 15:19:50 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-1760851446154743190.post-5287013810886865947</guid>
+<description>&lt;img src="https://dl.dropboxusercontent.com/s/intketof2skbvmm/square3100.jpg" /&gt;&lt;br /&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;On this episode we talk about more teachers that made an impact on us through the years, a bit about fountain pens, and our relationships with math.&amp;nbsp;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;We’re also online at theclassrecord.com&amp;nbsp;&lt;br /&gt;Twitter: @theclassrecord&amp;nbsp;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Featuring:&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Charlie, Joao, Jovit, Ling, and Rom.&amp;nbsp;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;a href="https://ia801408.us.archive.org/32/items/20201009teachersday/20201009teachersDay.mp3"&gt;Download the episode here.&amp;nbsp;&lt;/a&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/theclassrecord/~4/fbcz7OcTApM" height="1" width="1" alt=""/&gt;</description>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="http://feedproxy.google.com/~r/theclassrecord/~5/RNLH-mQR1Ns/20201009teachersDay.mp3" fileSize="26704349" type="audio/mpeg" />
+<media:thumbnail url="https://1.bp.blogspot.com/-Pj-SxUgaN9g/Xjk0o0HMywI/AAAAAAAAAAY/Rxp_HDcjwG0yc-ub1_ceJLd4accVL0xfwCLcBGAsYHQ/s2048/square.png" height="512" width="512" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>On this episode we talk about more teachers that made an impact on us through the years, a bit about fountain pens, and our relationships with math.&amp;nbsp; We’re also online at theclassrecord.com&amp;nbsp; Twitter: @theclassrecord&amp;nbsp; Featuring:&amp;nbsp; Charl</itunes:subtitle>
+<itunes:author>the class record</itunes:author>
+<itunes:summary>On this episode we talk about more teachers that made an impact on us through the years, a bit about fountain pens, and our relationships with math.&amp;nbsp; We’re also online at theclassrecord.com&amp;nbsp; Twitter: @theclassrecord&amp;nbsp; Featuring:&amp;nbsp; Charlie, Joao, Jovit, Ling, and Rom.&amp;nbsp; Download the episode here.&amp;nbsp;</itunes:summary>
+<itunes:keywords>teacher</itunes:keywords>
+<feedburner:origLink>http://theclassrecordrss.blogspot.com/2020/10/more-teachers-day-fountain-pens-math.html</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/theclassrecord/~5/RNLH-mQR1Ns/20201009teachersDay.mp3" length="26704349" type="audio/mpeg" />
+<feedburner:origEnclosureLink>https://ia801408.us.archive.org/32/items/20201009teachersday/20201009teachersDay.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+<title>Teachers' Day</title>
+<link>http://feedproxy.google.com/~r/theclassrecord/~3/tKo1z8jWxzI/teachers-day.html</link>
+<category>classrecord</category>
+<category>podcast</category>
+<author>theclassrecord@gmail.com (the class record)</author>
+<pubDate>Mon, 05 Oct 2020 03:12:04 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-1760851446154743190.post-3282740286242479363</guid>
+<description>&lt;img src="https://dl.dropboxusercontent.com/s/intketof2skbvmm/square3100.jpg" /&gt;&lt;br /&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;On this episode we talk about some of our Teachers' Day stories and about the teachers that made an impact on us through the years.&amp;nbsp;&lt;br /&gt;We’re also online at theclassrecord.com&amp;nbsp;&lt;br /&gt;Twitter: @theclassrecord&amp;nbsp;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Featuring:&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Florge, Jace, Joao, Lei, Ling, and Rom.&amp;nbsp;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;a href="https://archive.org/download/20201003teachersday/20201003teachersday.mp3"&gt;Download the episode here.&amp;nbsp;&lt;/a&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/theclassrecord/~4/tKo1z8jWxzI" height="1" width="1" alt=""/&gt;</description>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="http://feedproxy.google.com/~r/theclassrecord/~5/XvfCFzKMiJ8/20201003teachersday.mp3" fileSize="23474545" type="audio/mpeg" />
+<media:thumbnail url="https://1.bp.blogspot.com/-Pj-SxUgaN9g/Xjk0o0HMywI/AAAAAAAAAAY/Rxp_HDcjwG0yc-ub1_ceJLd4accVL0xfwCLcBGAsYHQ/s2048/square.png" height="512" width="512" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>On this episode we talk about some of our Teachers' Day stories and about the teachers that made an impact on us through the years.&amp;nbsp; We’re also online at theclassrecord.com&amp;nbsp; Twitter: @theclassrecord&amp;nbsp; Featuring:&amp;nbsp; Florge, Jace, Joao, Le</itunes:subtitle>
+<itunes:author>the class record</itunes:author>
+<itunes:summary>On this episode we talk about some of our Teachers' Day stories and about the teachers that made an impact on us through the years.&amp;nbsp; We’re also online at theclassrecord.com&amp;nbsp; Twitter: @theclassrecord&amp;nbsp; Featuring:&amp;nbsp; Florge, Jace, Joao, Lei, Ling, and Rom.&amp;nbsp; Download the episode here.&amp;nbsp;</itunes:summary>
+<itunes:keywords>teacher</itunes:keywords>
+<feedburner:origLink>http://theclassrecordrss.blogspot.com/2020/10/teachers-day.html</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/theclassrecord/~5/XvfCFzKMiJ8/20201003teachersday.mp3" length="23474545" type="audio/mpeg" />
+<feedburner:origEnclosureLink>https://archive.org/download/20201003teachersday/20201003teachersday.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+<title>Teaching in the New Normal</title>
+<link>http://feedproxy.google.com/~r/theclassrecord/~3/r3F7rFFFqR0/teaching-in-new-normal.html</link>
+<category>classrecord</category>
+<category>podcast</category>
+<author>theclassrecord@gmail.com (the class record)</author>
+<pubDate>Sun, 27 Sep 2020 03:20:05 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-1760851446154743190.post-5958125253417848278</guid>
+<description>&lt;img src="https://dl.dropboxusercontent.com/s/intketof2skbvmm/square3100.jpg" /&gt; &lt;br /&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;On this episode we talk the joys and struggles of teaching in a virtual classroom.&lt;br /&gt;We’re also online at theclassrecord.com&lt;br /&gt;Twitter: @theclassrecord&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Featuring:&lt;br /&gt;&lt;br /&gt;Joao, Charlie, Ling, Jovit, Jon, Lei, and Jace.&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;a href="https://archive.org/download/20200925online-learning/20200925onlineLearning.mp3"&gt;Download the episode here.&amp;nbsp;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/theclassrecord/~4/r3F7rFFFqR0" height="1" width="1" alt=""/&gt;</description>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="http://feedproxy.google.com/~r/theclassrecord/~5/pK6AROjCEto/20200925onlineLearning.mp3" fileSize="35076898" type="audio/mpeg" />
+<media:thumbnail url="https://1.bp.blogspot.com/-Pj-SxUgaN9g/Xjk0o0HMywI/AAAAAAAAAAY/Rxp_HDcjwG0yc-ub1_ceJLd4accVL0xfwCLcBGAsYHQ/s2048/square.png" height="512" width="512" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>On this episode we talk the joys and struggles of teaching in a virtual classroom. We’re also online at theclassrecord.com Twitter: @theclassrecord Featuring: Joao, Charlie, Ling, Jovit, Jon, Lei, and Jace. Download the episode here.&amp;nbsp;</itunes:subtitle>
+<itunes:author>the class record</itunes:author>
+<itunes:summary>On this episode we talk the joys and struggles of teaching in a virtual classroom. We’re also online at theclassrecord.com Twitter: @theclassrecord Featuring: Joao, Charlie, Ling, Jovit, Jon, Lei, and Jace. Download the episode here.&amp;nbsp;</itunes:summary>
+<itunes:keywords>teacher</itunes:keywords>
+<feedburner:origLink>http://theclassrecordrss.blogspot.com/2020/09/teaching-in-new-normal.html</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/theclassrecord/~5/pK6AROjCEto/20200925onlineLearning.mp3" length="35076898" type="audio/mpeg" />
+<feedburner:origEnclosureLink>https://archive.org/download/20200925online-learning/20200925onlineLearning.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+<title>Food for Heroes</title>
+<link>http://feedproxy.google.com/~r/theclassrecord/~3/i68p4IbyZa8/the-food-of-heroes.html</link>
+<category>classrecord</category>
+<category>podcast</category>
+<author>theclassrecord@gmail.com (the class record)</author>
+<pubDate>Wed, 15 Apr 2020 22:57:12 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-1760851446154743190.post-6044824560921228504</guid>
+<description>&lt;div style="text-align: center;"&gt;&lt;img height="640" src="https://dl.dropboxusercontent.com/s/intketof2skbvmm/square3100.jpg" width="640" /&gt; &lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;On this episode we talk about the stuff we're watching, listening to, and reading.&lt;br /&gt;Recorded on Skype with third world internet.&lt;br /&gt;We’re also online at theclassrecord.com&lt;br /&gt;Twitter: @theclassrecord&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Stuff we mentioned:&lt;br /&gt;&lt;a href="https://panlasangpinoy.com/tortang-corned-beef-omelet/" target="_blank"&gt;Corned Beef Omelet&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.imdb.com/title/tt1598778/" target="_blank"&gt;Contagion&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.simplypsychology.org/pavlov.html" target="_blank"&gt;Pavlov&lt;/a&gt;&lt;br /&gt;&lt;a href="https://m.facebook.com/DepartmentOfEducation.PH/photos/a.380071542052546/3536205913105744/" target="_blank"&gt;DepEd Graduation Postponement&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="http://www.harrywong.com/" target="_blank"&gt;Harry Wong&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Featuring:&lt;br /&gt;&lt;br /&gt;Joao, Charlie, Ling, Bea, and Val&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;a href="https://archive.org/download/20200414foodofheroes/20200414foodofheroes.mp3"&gt;Download the episode here.&amp;nbsp;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;/div&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/theclassrecord/~4/i68p4IbyZa8" height="1" width="1" alt=""/&gt;</description>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="http://feedproxy.google.com/~r/theclassrecord/~5/FOmB6en6OLU/20200414foodofheroes.mp3" fileSize="27483304" type="audio/mpeg" />
+<media:thumbnail url="https://1.bp.blogspot.com/-Pj-SxUgaN9g/Xjk0o0HMywI/AAAAAAAAAAY/Rxp_HDcjwG0yc-ub1_ceJLd4accVL0xfwCLcBGAsYHQ/s2048/square.png" height="512" width="512" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>On this episode we talk about the stuff we're watching, listening to, and reading. Recorded on Skype with third world internet. We’re also online at theclassrecord.com Twitter: @theclassrecord Stuff we mentioned: Corned Beef Omelet Contagion Pavlov DepEd</itunes:subtitle>
+<itunes:author>the class record</itunes:author>
+<itunes:summary>On this episode we talk about the stuff we're watching, listening to, and reading. Recorded on Skype with third world internet. We’re also online at theclassrecord.com Twitter: @theclassrecord Stuff we mentioned: Corned Beef Omelet Contagion Pavlov DepEd Graduation Postponement Harry Wong Featuring: Joao, Charlie, Ling, Bea, and Val Download the episode here.&amp;nbsp;</itunes:summary>
+<itunes:keywords>teacher</itunes:keywords>
+<feedburner:origLink>http://theclassrecordrss.blogspot.com/2020/04/the-food-of-heroes.html</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/theclassrecord/~5/FOmB6en6OLU/20200414foodofheroes.mp3" length="27483304" type="audio/mpeg" />
+<feedburner:origEnclosureLink>https://archive.org/download/20200414foodofheroes/20200414foodofheroes.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+<title>The Stay Home Special (Not Sponsored by Netflix)</title>
+<link>http://feedproxy.google.com/~r/theclassrecord/~3/UNiNGhxjkP4/the-stay-home-special-not-sponsored-by.html</link>
+<category>classrecord</category>
+<category>podcast</category>
+<author>theclassrecord@gmail.com (the class record)</author>
+<pubDate>Wed, 15 Apr 2020 22:52:17 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-1760851446154743190.post-4651282807130914403</guid>
+<description>&lt;img src="https://dl.dropboxusercontent.com/s/intketof2skbvmm/square3100.jpg" /&gt; &lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;On this episode we talk about the stuff we're watching, listening to, and reading.&lt;br /&gt;Recorded on Skype with third world internet.&lt;br /&gt;We’re also online at theclassrecord.com&lt;br /&gt;Twitter: @theclassrecord&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Stuff we mentioned:&lt;br /&gt;&lt;a href="https://www.netflix.com/ph/title/70001473" target="_blank"&gt;Predator&lt;/a&gt;&lt;br /&gt;&lt;a href="https://open.spotify.com/artist/0oxUux1OSwZpIpSK0JbqSS" target="_blank"&gt;Austrian Death Machine&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.netflix.com/ph/title/70298735" target="_blank"&gt;Edge of Tomorrow&lt;/a&gt;&lt;br /&gt;&lt;a href="https://media.netflix.com/en/press-releases/netflix-releases-21-studio-ghibli-masterpieces-around-the-world" target="_blank"&gt;Studio Ghibli on Netflix&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.netflix.com/ph/title/80237957" target="_blank"&gt;Avatar The Last Airbender&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.youtube.com/watch?v=d_dOhg-Fpu0" target="_blank"&gt;The Historical Jesus&lt;/a&gt;&lt;br /&gt;&lt;a href="https://curiositystream.com/" target="_blank"&gt;Curiosity Stream&lt;/a&gt;&lt;br /&gt;&lt;a href="https://playhearthstone.com/en-us/?" target="_blank"&gt;Hearthstone&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.minecraft.net/en-us/" target="_blank"&gt;Minecraft&lt;/a&gt;&lt;br /&gt;&lt;a href="https://store.steampowered.com/app/400/Portal/" target="_blank"&gt;Portal&lt;/a&gt;&lt;br /&gt;&lt;a href="https://animal-crossing.com/" target="_blank"&gt;Animal Crossing&lt;/a&gt;&lt;br /&gt;&lt;a href="https://jackboxgames.com/" target="_blank"&gt;Jackbox&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.escape-team.com/" target="_blank"&gt;Escape Team&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.netflix.com/ph/title/81239224" target="_blank"&gt;Hospital Playlist&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.netflix.com/ph/title/80214406" target="_blank"&gt;Prison Playbook&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.netflix.com/ph/title/70143836" target="_blank"&gt;Breaking Bad&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.netflix.com/ph/title/70142436" target="_blank"&gt;Merlin&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.netflix.com/ph/title/771476" target="_blank"&gt;Monty Python and the Holy Grail&lt;/a&gt;&lt;br /&gt;&lt;a href="https://screenrant.com/cats-movie-release-butthole-cut-exist-cgi-explained/" target="_blank"&gt;Cats&amp;nbsp;Butthole Cut&lt;/a&gt;&lt;br /&gt;&lt;a href="http://www.harrywong.com/" target="_blank"&gt;Harry Wong&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Featuring:&lt;br /&gt;&lt;br /&gt;Joao, Charlie, Ling, and Val&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;a href="https://archive.org/download/20200326quarantine/20200326quarantine.mp3"&gt;Download the episode here.&amp;nbsp;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/theclassrecord/~4/UNiNGhxjkP4" height="1" width="1" alt=""/&gt;</description>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="http://feedproxy.google.com/~r/theclassrecord/~5/oT3pSpGdMXc/20200326quarantine.mp3" fileSize="20536254" type="audio/mpeg" />
+<media:thumbnail url="https://1.bp.blogspot.com/-Pj-SxUgaN9g/Xjk0o0HMywI/AAAAAAAAAAY/Rxp_HDcjwG0yc-ub1_ceJLd4accVL0xfwCLcBGAsYHQ/s2048/square.png" height="512" width="512" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>On this episode we talk about the stuff we're watching, listening to, and reading. Recorded on Skype with third world internet. We’re also online at theclassrecord.com Twitter: @theclassrecord Stuff we mentioned: Predator Austrian Death Machine Edge of T</itunes:subtitle>
+<itunes:author>the class record</itunes:author>
+<itunes:summary>On this episode we talk about the stuff we're watching, listening to, and reading. Recorded on Skype with third world internet. We’re also online at theclassrecord.com Twitter: @theclassrecord Stuff we mentioned: Predator Austrian Death Machine Edge of Tomorrow Studio Ghibli on Netflix Avatar The Last Airbender The Historical Jesus Curiosity Stream Hearthstone Minecraft Portal Animal Crossing Jackbox Escape Team Hospital Playlist Prison Playbook Breaking Bad Merlin Monty Python and the Holy Grail Cats&amp;nbsp;Butthole Cut Harry Wong Featuring: Joao, Charlie, Ling, and Val Download the episode here.&amp;nbsp;</itunes:summary>
+<itunes:keywords>teacher</itunes:keywords>
+<feedburner:origLink>http://theclassrecordrss.blogspot.com/2020/03/the-stay-home-special-not-sponsored-by.html</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/theclassrecord/~5/oT3pSpGdMXc/20200326quarantine.mp3" length="20536254" type="audio/mpeg" />
+<feedburner:origEnclosureLink>https://archive.org/download/20200326quarantine/20200326quarantine.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+<title>The Bad Sound Quality Work From Home Episode</title>
+<link>http://feedproxy.google.com/~r/theclassrecord/~3/tSLVlxXzIBI/the-bad-sound-quality-work-from-home.html</link>
+<category>classrecord</category>
+<category>podcast</category>
+<author>theclassrecord@gmail.com (the class record)</author>
+<pubDate>Fri, 20 Mar 2020 00:30:13 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-1760851446154743190.post-5419531728032966809</guid>
+<description>&lt;img src="https://dl.dropboxusercontent.com/s/intketof2skbvmm/square3100.jpg" /&gt; &lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;On this episode we talk about work in community quarantine.&lt;br /&gt;The tools we use.&lt;br /&gt;And a bit about our what we've been up to.&lt;br /&gt;Recorded on Skype with third world internet.&lt;br /&gt;We’re also online at theclassrecord.com&lt;br /&gt;Twitter: @theclassrecord&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Stuff we mentioned:&lt;br /&gt;&lt;a href="https://en.wikipedia.org/wiki/Harry_Wong" target="_blank"&gt;Harry Wong&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.schoology.com/" target="_blank"&gt;Schoology&lt;/a&gt;&lt;br /&gt;&lt;a href="https://drive.google.com/" target="_blank"&gt;Google Drive&lt;/a&gt;&lt;br /&gt;&lt;a href="https://slack.com/" target="_blank"&gt;Slack&lt;/a&gt;&lt;br /&gt;&lt;a href="https://archive.org/stream/Fantasy_Science_Fiction_v006n02_1954-02/Fantasy__Science_Fiction_v006n02_1954-02#page/n125/mode/2up" target="_blank"&gt;The Fun They Had by Isaac Asimov&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.youtube.com/watch?v=l_Jeyif7bB4" target="_blank"&gt;Bring the Noise&lt;/a&gt;&lt;br /&gt;&lt;a href="https://disneyplusoriginals.disney.com/show/the-mandalorian" target="_blank"&gt;The Mandalorian&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.youtube.com/watch?v=wyKQe_i9yyo" target="_blank"&gt;Don't Cross the Streams&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Featuring:&lt;br /&gt;&lt;br /&gt;Joao, Charlie, Ling, Bea, and Val&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;a href="https://archive.org/download/20200319badsound/20200319badsound.mp3"&gt;Download the episode here.&amp;nbsp;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/theclassrecord/~4/tSLVlxXzIBI" height="1" width="1" alt=""/&gt;</description>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="http://feedproxy.google.com/~r/theclassrecord/~5/g7dtJvPZhIs/20200319badsound.mp3" fileSize="21877298" type="audio/mpeg" />
+<media:thumbnail url="https://1.bp.blogspot.com/-Pj-SxUgaN9g/Xjk0o0HMywI/AAAAAAAAAAY/Rxp_HDcjwG0yc-ub1_ceJLd4accVL0xfwCLcBGAsYHQ/s2048/square.png" height="512" width="512" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>On this episode we talk about work in community quarantine. The tools we use. And a bit about our what we've been up to. Recorded on Skype with third world internet. We’re also online at theclassrecord.com Twitter: @theclassrecord Stuff we mentioned: Har</itunes:subtitle>
+<itunes:author>the class record</itunes:author>
+<itunes:summary>On this episode we talk about work in community quarantine. The tools we use. And a bit about our what we've been up to. Recorded on Skype with third world internet. We’re also online at theclassrecord.com Twitter: @theclassrecord Stuff we mentioned: Harry Wong Schoology Google Drive Slack The Fun They Had by Isaac Asimov Bring the Noise The Mandalorian Don't Cross the Streams Featuring: Joao, Charlie, Ling, Bea, and Val Download the episode here.&amp;nbsp;</itunes:summary>
+<itunes:keywords>teacher</itunes:keywords>
+<feedburner:origLink>http://theclassrecordrss.blogspot.com/2020/03/the-bad-sound-quality-work-from-home.html</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/theclassrecord/~5/g7dtJvPZhIs/20200319badsound.mp3" length="21877298" type="audio/mpeg" />
+<feedburner:origEnclosureLink>https://archive.org/download/20200319badsound/20200319badsound.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+<title>The Lost Episode</title>
+<link>http://feedproxy.google.com/~r/theclassrecord/~3/ZDjp3VfppbU/the-lost-episode.html</link>
+<category>classrecord</category>
+<category>podcast</category>
+<author>theclassrecord@gmail.com (the class record)</author>
+<pubDate>Tue, 10 Mar 2020 21:26:45 PDT</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-1760851446154743190.post-2307297456954217781</guid>
+<description>&lt;img src="https://dl.dropboxusercontent.com/s/intketof2skbvmm/square3100.jpg" /&gt; &lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;On this episode we talk about checking papers.&lt;br /&gt;Music and drinks for checking papers.&lt;br /&gt;Fitness and smart devices.&lt;br /&gt;Our first podcasts.&lt;br /&gt;Subscription services.&lt;br /&gt;The Mandalorian TV series&lt;br /&gt;Mukbang&lt;br /&gt;We’re also online at theclassrecord.com&lt;br /&gt;Twitter: @theclassrecord&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Stuff we mentioned:&lt;br /&gt;philosophizethis.org&lt;br /&gt;99percentinvisible.org&lt;br /&gt;artcuriouspodcast.com&lt;br /&gt;slashfilm.com/category/features/slashfilmcast/&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Featuring:&lt;br /&gt;&lt;br /&gt;Joao, Val, and Bea&lt;br /&gt;Charlie and Ling had to step out for today&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;a href="https://archive.org/download/20200311remedial/20200311remedial.mp3"&gt;Download the episode here.&amp;nbsp;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/theclassrecord/~4/ZDjp3VfppbU" height="1" width="1" alt=""/&gt;</description>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="http://feedproxy.google.com/~r/theclassrecord/~5/2PcCntlWTwo/20200311remedial.mp3" fileSize="20649015" type="audio/mpeg" />
+<media:thumbnail url="https://1.bp.blogspot.com/-Pj-SxUgaN9g/Xjk0o0HMywI/AAAAAAAAAAY/Rxp_HDcjwG0yc-ub1_ceJLd4accVL0xfwCLcBGAsYHQ/s2048/square.png" height="512" width="512" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>On this episode we talk about checking papers. Music and drinks for checking papers. Fitness and smart devices. Our first podcasts. Subscription services. The Mandalorian TV series Mukbang We’re also online at theclassrecord.com Twitter: @theclassrecord</itunes:subtitle>
+<itunes:author>the class record</itunes:author>
+<itunes:summary>On this episode we talk about checking papers. Music and drinks for checking papers. Fitness and smart devices. Our first podcasts. Subscription services. The Mandalorian TV series Mukbang We’re also online at theclassrecord.com Twitter: @theclassrecord Stuff we mentioned: philosophizethis.org 99percentinvisible.org artcuriouspodcast.com slashfilm.com/category/features/slashfilmcast/ Featuring: Joao, Val, and Bea Charlie and Ling had to step out for today Download the episode here.&amp;nbsp;</itunes:summary>
+<itunes:keywords>teacher</itunes:keywords>
+<feedburner:origLink>http://theclassrecordrss.blogspot.com/2020/03/the-lost-episode.html</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/theclassrecord/~5/2PcCntlWTwo/20200311remedial.mp3" length="20649015" type="audio/mpeg" />
+<feedburner:origEnclosureLink>https://archive.org/download/20200311remedial/20200311remedial.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+<title>Extra Curricular Activities</title>
+<link>http://feedproxy.google.com/~r/theclassrecord/~3/YubtVMAFKHQ/extra-curricular-activities.html</link>
+<category>classrecord</category>
+<category>podcast</category>
+<author>theclassrecord@gmail.com (the class record)</author>
+<pubDate>Wed, 04 Mar 2020 03:26:19 PST</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-1760851446154743190.post-1399971321053749426</guid>
+<description>&lt;img src="https://dl.dropboxusercontent.com/s/intketof2skbvmm/square3100.jpg" /&gt; &lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;Teachers talking teacher stuff.&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;On this episode, we talk about extra curricular activities.&lt;br /&gt;&lt;br /&gt;The ones we took in highschool and college and what we would have taken if we were enrolled in the school we teach at in now.&lt;br /&gt;&lt;br /&gt;And during dismissal, we talk about Captain Planet.&amp;nbsp;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;Featuring:&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;Bea, Charlie, Ling, Joao, and Val.&amp;nbsp;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;a href="https://archive.org/download/20200302clubs/20200302clubs.mp3"&gt;Download the episode here.&amp;nbsp;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/theclassrecord/~4/YubtVMAFKHQ" height="1" width="1" alt=""/&gt;</description>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="http://feedproxy.google.com/~r/theclassrecord/~5/bIZDwKyAG-c/20200302clubs.mp3" fileSize="31949251" type="audio/mpeg" />
+<media:thumbnail url="https://1.bp.blogspot.com/-Pj-SxUgaN9g/Xjk0o0HMywI/AAAAAAAAAAY/Rxp_HDcjwG0yc-ub1_ceJLd4accVL0xfwCLcBGAsYHQ/s2048/square.png" height="512" width="512" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>Teachers talking teacher stuff. On this episode, we talk about extra curricular activities. The ones we took in highschool and college and what we would have taken if we were enrolled in the school we teach at in now. And during dismissal, we talk about</itunes:subtitle>
+<itunes:author>the class record</itunes:author>
+<itunes:summary>Teachers talking teacher stuff. On this episode, we talk about extra curricular activities. The ones we took in highschool and college and what we would have taken if we were enrolled in the school we teach at in now. And during dismissal, we talk about Captain Planet.&amp;nbsp; Featuring: Bea, Charlie, Ling, Joao, and Val.&amp;nbsp; Download the episode here.&amp;nbsp;</itunes:summary>
+<itunes:keywords>teacher</itunes:keywords>
+<feedburner:origLink>http://theclassrecordrss.blogspot.com/2020/03/extra-curricular-activities.html</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/theclassrecord/~5/bIZDwKyAG-c/20200302clubs.mp3" length="31949251" type="audio/mpeg" />
+<feedburner:origEnclosureLink>https://archive.org/download/20200302clubs/20200302clubs.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+<title>Deadlines</title>
+<link>http://feedproxy.google.com/~r/theclassrecord/~3/oS-nYGB0O88/teachers-talking-teacher-stuff.html</link>
+<category>classrecord</category>
+<category>podcast</category>
+<author>theclassrecord@gmail.com (the class record)</author>
+<pubDate>Wed, 04 Mar 2020 03:25:29 PST</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-1760851446154743190.post-9049400539224158129</guid>
+<description>&lt;img src="https://dl.dropboxusercontent.com/s/intketof2skbvmm/square3100.jpg" /&gt; &lt;br /&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;Teachers talking teacher stuff.&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;On this episode, we talk about deadlines.&lt;br /&gt;Student deadlines as well as our own. &lt;br /&gt;And during dismissal, we talk about the Oscars.&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;Featuring:&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;Bea, Charlie, Ling, Joao, and Val.&amp;nbsp;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;a href="https://archive.org/download/20200207deadlines/20200207deadlines.mp3"&gt;Download the episode here.&amp;nbsp;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/theclassrecord/~4/oS-nYGB0O88" height="1" width="1" alt=""/&gt;</description>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="http://feedproxy.google.com/~r/theclassrecord/~5/46Mw2ePBRws/20200207deadlines.mp3" fileSize="29641594" type="audio/mpeg" />
+<media:thumbnail url="https://1.bp.blogspot.com/-Pj-SxUgaN9g/Xjk0o0HMywI/AAAAAAAAAAY/Rxp_HDcjwG0yc-ub1_ceJLd4accVL0xfwCLcBGAsYHQ/s2048/square.png" height="512" width="512" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>Teachers talking teacher stuff. On this episode, we talk about deadlines. Student deadlines as well as our own. And during dismissal, we talk about the Oscars. Featuring: Bea, Charlie, Ling, Joao, and Val.&amp;nbsp; Download the episode here.&amp;nbsp;</itunes:subtitle>
+<itunes:author>the class record</itunes:author>
+<itunes:summary>Teachers talking teacher stuff. On this episode, we talk about deadlines. Student deadlines as well as our own. And during dismissal, we talk about the Oscars. Featuring: Bea, Charlie, Ling, Joao, and Val.&amp;nbsp; Download the episode here.&amp;nbsp;</itunes:summary>
+<itunes:keywords>teacher</itunes:keywords>
+<feedburner:origLink>http://theclassrecordrss.blogspot.com/2020/03/teachers-talking-teacher-stuff.html</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/theclassrecord/~5/46Mw2ePBRws/20200207deadlines.mp3" length="29641594" type="audio/mpeg" />
+<feedburner:origEnclosureLink>https://archive.org/download/20200207deadlines/20200207deadlines.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+<title>The Firsts Episode</title>
+<link>http://feedproxy.google.com/~r/theclassrecord/~3/ykgSUjg5Bnw/the-firsts-episode.html</link>
+<category>classrecord</category>
+<category>podcast</category>
+<author>theclassrecord@gmail.com (the class record)</author>
+<pubDate>Wed, 04 Mar 2020 03:25:08 PST</pubDate>
+<guid isPermaLink="false">tag:blogger.com,1999:blog-1760851446154743190.post-4290091004104960001</guid>
+<description>&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;img src="https://dl.dropboxusercontent.com/s/intketof2skbvmm/square3100.jpg" /&gt; &lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;Teachers talking teacher stuff.&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;On this episode, we talk about our firsts. And about Mulan during dismissal.&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;Featuring:&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;Charlie, Ling, Joao, and Val.&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;a href="https://archive.org/download/classrecord-200203firsts/classrecord-200203firsts.mp3"&gt;Download the episode here.&amp;nbsp;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/theclassrecord/~4/ykgSUjg5Bnw" height="1" width="1" alt=""/&gt;</description>
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
+<media:content url="http://feedproxy.google.com/~r/theclassrecord/~5/zBmz5-iMiNI/classrecord-200203firsts.mp3" fileSize="30270302" type="audio/mpeg" />
+<media:thumbnail url="https://1.bp.blogspot.com/-Pj-SxUgaN9g/Xjk0o0HMywI/AAAAAAAAAAY/Rxp_HDcjwG0yc-ub1_ceJLd4accVL0xfwCLcBGAsYHQ/s2048/square.png" height="512" width="512" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>Teachers talking teacher stuff. On this episode, we talk about our firsts. And about Mulan during dismissal. Featuring: Charlie, Ling, Joao, and Val. Download the episode here.&amp;nbsp;</itunes:subtitle>
+<itunes:author>the class record</itunes:author>
+<itunes:summary>Teachers talking teacher stuff. On this episode, we talk about our firsts. And about Mulan during dismissal. Featuring: Charlie, Ling, Joao, and Val. Download the episode here.&amp;nbsp;</itunes:summary>
+<itunes:keywords>teacher</itunes:keywords>
+<feedburner:origLink>http://theclassrecordrss.blogspot.com/2020/03/the-firsts-episode.html</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/theclassrecord/~5/zBmz5-iMiNI/classrecord-200203firsts.mp3" length="30270302" type="audio/mpeg" />
+<feedburner:origEnclosureLink>https://archive.org/download/classrecord-200203firsts/classrecord-200203firsts.mp3</feedburner:origEnclosureLink>
+</item>
+<media:credit role="author">the class record</media:credit>
+<media:rating>nonadult</media:rating>
+<media:description type="plain">Teachers talking teacher stuff after work.</media:description>
+</channel>
+</rss>
